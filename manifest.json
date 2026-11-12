@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/weixi-hash/PpaClock/releases/latest/download/aod-clock.apk",
+  "notes": "1.0.3 更新内容：\n1. 更新源内置到 App，检查更新无需填写任何地址\n2. 新增「指针表盘 + 数字时间」同时显示的样式\n3. 优化锁屏覆盖显示的稳定性与亮度表现"
+}
